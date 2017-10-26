@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 /**
- * @author TODO: please add student ID and name here
+ * @author TODO: please add student b0544236 and name here
  * Try to write some comments for your codes (methods, 15 points)
  */
 public class HW2 {
@@ -26,8 +26,8 @@ public class HW2 {
 	}
 	/**
 	 * This method is used for checking your result, not a part of your HW2
-	 * @param allCards 所有的牌
-	 * @param nDeck 總共有幾副牌
+	 * @param allCards �������
+	 * @param nDeck 蝮賢��嗾����
 	 * @return
 	 */
 	private static boolean isAllCardsCorrect(ArrayList<Card> allCards,int nDeck){
